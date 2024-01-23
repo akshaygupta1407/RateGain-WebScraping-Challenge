@@ -18,3 +18,5 @@ This will iterate through every page on the website and extract the specified da
 
 **Results**
 Once the web scraping process is complete, you can view the results on the `output.csv` file.
+
+Website: https://rategain.com/blog/
